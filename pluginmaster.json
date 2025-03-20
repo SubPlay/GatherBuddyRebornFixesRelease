@@ -29,10 +29,10 @@
     "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/GBR_Icon.png",
     "Punchline": "Cole is the greatest coder in the world.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/SubPlay/GatherBuddyRebornFixesRelease/releases/download/Release/GBRFixesRelease.zip",
+    "DownloadLinkInstall": "https://github.com/SubPlay/GatherBuddyRebornFixesRelease/releases/download/Release/GBRReleaseFixes.zip",
     "AssemblyVersion": "7.2.2.21",
-    "DownloadLinkUpdate": "https://github.com/SubPlay/GatherBuddyRebornFixesRelease/releases/download/Release/GBRFixesRelease.zip",
-    "DownloadLinkTesting": "https://github.com/SubPlay/GatherBuddyRebornFixesRelease/releases/download/Release/GBRFixesRelease.zip",
+    "DownloadLinkUpdate": "",
+    "DownloadLinkTesting": "https://github.com/SubPlay/GatherBuddyRebornFixesRelease/releases/download/Release/GBRReleaseFixes.zip",
     "TestingAssemblyVersion": "7.2.2.18",
     "Changelog": "## What's Changed\r\n* Revert change that breaks deserialization of Auto-Gather lists by @lazyranma in https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/pull/293\r\n\r\n\r\n**Full Changelog**: https://github.com/FFXIV-CombatReborn/GatherBuddyReborn/compare/7.2.2.20...7.2.2.21",
     "DownloadCount": 177207
